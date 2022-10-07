@@ -1,0 +1,13 @@
+.pa {
+    background-color: greenyellow;
+    color: blue;
+}
+#cen {
+    text-align:center;
+}
+#cen:hover {
+    color: rgb(192, 103, 20);
+}
+#click {
+    text-align: center;
+}
